@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    height: 80px;
+}
+
+.logo{
+    margin: 40px 100px;
+}
+
+nav{
+    display: flex;
+}
+
+ul{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 40px;
+    height: 20px;
+    gap: 20px;
+    list-style: none;
+}
+
+
+.btn{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+
+.btn button{
+    height: 36px;
+    width: 150px;
+    background-color: #4CAF4F;
+    color: white    ;
+    border: none;
+    border-radius: 3px;
+}
+
+.container{
+    background: #F5F7FA;
+    height: 400px;
+    /* width: 1500px; */
+    margin: 150px 100px;
+}
+
+.one{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+.two{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:green;
+    font-size: 60px;
+}
+
+.container p{
+    display: inline;
+    margin-top: 10px;
+}
+
+.btn-one{
+    margin: 30px 0px;
+}
+
+.btn-one button{
+    height: 40px;
+    width: 80px;
+    background-color: #4CAF4F;
+    border-radius: 3px;
+    border: none;
+}
+
+.right-side{
+    /* background-color: blueviolet; */
+    position: absolute;
+    top:250px;
+    left: 800px;
+}
+
+.container-two{
+    height:200px;
+    position: relative;
+    bottom: 100px;
+}
+.container-two h1{
+    display: flex;
+    justify-content: center;
+}
+
+.container-two p{
+    display: flex;
+    justify-content: center;
+}
+
+.container-two img{
+    margin: 0px 300px;
+}
+
+.container-three{
+    position: relative;
+    bottom: 50px;
+
+
+}
+
+.container-three{
+    position: relative;
+    bottom: ;
+}
+
+.container-three h1{
+    width: 450px;
+    margin-left: 500px;
+}
+
+.container-three p{
+    display: flex;
+    justify-content: center;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around   ;
+    gap: 50px;
+    height:400px ;
+
+}
+
+
+.card-one{
+    height: 200px;
+    width: 200px;
+    
+
+}
+
+.card-two{
+    height: 200px;
+    width: 200px;
+
+}
+
+.card-three{
+    height: 200px;
+    width: 200px;
+}
+
+.container-four{
+    height: 200px;
+    position: relative;
+    bottom: 100px;
+}
+
+.container-four h1{
+    display: flex;
+    justify-content: center; 
+}
+
+.btn-three{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-three button{
+    margin-top: 30px;
+    height: 37px;
+    width: 140px;
+    background-color: #4CAF4F;
+    border: none;
+}
